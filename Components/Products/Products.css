@@ -1,0 +1,10 @@
+/* .itemsCart{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    display: inline;
+} */
+.product-image {
+    width: 10rem; /* Adjust the size as needed */
+  }
